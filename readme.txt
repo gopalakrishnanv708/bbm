@@ -1,0 +1,1 @@
+This post is regarding to blood bank mgmt system project.  It belongs to my sister Cheekati Myna I uploded it to my git account for backup purpose and deleted immediately once she told me that concern has been raised.
